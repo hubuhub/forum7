@@ -1,8 +1,0 @@
-_id: a9304600-5e83-11e8-bff3-cf20643057a6
-name: test
-comment: 'test лучше приобрести вот <a href="http://test.ru">тут</a>'
-product: test
-date: '2018-05-23T12:20:21.065Z'
-timestamp: 1527078021
-tags:
-  - comment-subscription
